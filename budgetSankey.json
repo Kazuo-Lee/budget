@@ -10,7 +10,8 @@
 {"name":"Media Promotion"},
 {"name":"B2B2C"},
 {"name":"Efficiency"},
-{"name":"Concurrent"}
+{"name":"Concurrent"},
+{"name":"Misc."}
 ],
 "links":[
 {"source": "New Budget", "target": "Venture", "value": 10},
@@ -22,5 +23,10 @@
 {"source": "Concurrent", "target": "B2B2C", "value": 5},
 {"source": "Concurrent", "target": "Efficiency", "value": 5},
 {"source": "Traditional", "target": "Headcount", "value": 50},
-{"source": "Traditional", "target": "Agile Expansion", "value": 10}
+{"source": "Traditional", "target": "Agile Expansion", "value": 10},
+{"source": "Agile", "target": "Loyalty Program", "value": 5},
+{"source": "Agile", "target": "Agile Expansion", "value": 25},
+{"source": "Venture", "target": "Loyalty Program", "value": 5},
+{"source": "Venture", "target": "Misc.", "value": 5}
 ]}
+
