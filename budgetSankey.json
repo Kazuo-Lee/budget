@@ -10,6 +10,6 @@
 {"source": "New Budget", "target": "Venture", "value": 10},
 {"source": "New Budget", "target": "Agile", "value": 30},
 {"source": "New Budget", "target": "Traditional", "value": 60},
-{"source": "Existing", "target": " Concurrent", "value": 20}
+{"source": "Existing", "target": "Concurrent", "value": 20}
 ]}
 
