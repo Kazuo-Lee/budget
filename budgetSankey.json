@@ -1,4 +1,5 @@
 {"nodes":[
+{"name":"Total"},
 {"name":"New Budget"},
 {"name":"Existing"},
 {"name":"Venture"},
@@ -7,6 +8,8 @@
 {"name":"Concurrent"}
 ],
 "links":[
+{"source": "Total", "target": "New Budget", "value": 100},
+{"source": "Total", "target": "Existing", "value": 20},
 {"source": "New Budget", "target": "Venture", "value": 10},
 {"source": "New Budget", "target": "Agile", "value": 30},
 {"source": "New Budget", "target": "Traditional", "value": 60},
