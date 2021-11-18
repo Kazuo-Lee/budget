@@ -32,6 +32,6 @@
 {"source": "Venture", "target": "Misc.", "value": 5},
 {"source": "Loyalty Program", "target": "Retention", "value": 5},
 {"source": "Loyalty Program", "target": "B2C", "value": 5},
-{"source": "Agile Expansion", "target”: "B2C", "value": 25},
-{"source": "Agile Expansion", "target”: "B2B2C", "value": 10}
+{"source": "Agile Expansion", "target": "B2C", "value": 25},
+{"source": "Agile Expansion", "target": "B2B2C", "value": 10}
 ]}
