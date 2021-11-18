@@ -13,6 +13,9 @@
 {"name":"Concurrent"},
 {"name":"Retention"},
 {"name":"B2C"},
+{"name":"M&A"},
+{"name":"Financial Products"},
+{"name":"Efficiency"},
 {"name":"Misc."}
 ],
 "links":[
@@ -34,4 +37,8 @@
 {"source": "Loyalty Program", "target": "B2C", "value": 5},
 {"source": "Agile Expansion", "target": "B2C", "value": 25},
 {"source": "Agile Expansion", "target": "B2B2C", "value": 10}
+{"source": "Headcount", "target": "B2C", "M&A": 25},
+{"source": "Headcount", "target": "B2C", "Financial Products": 20},
+{"source": "Headcount", "target": "B2C", "Efficiency": 15}
 ]}
+
