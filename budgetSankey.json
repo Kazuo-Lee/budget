@@ -4,12 +4,22 @@
 {"name":"Venture"},
 {"name":"Agile"},
 {"name":"Traditional"},
+{"name":"Loyalty Program"},
+{"name":"Agile Expansion"},
+{"name":"Headcount"},
+{"name":"Media Promotion"},
+{"name":"B2B2C"},
+{"name":"Efficiency"},
 {"name":"Concurrent"}
 ],
 "links":[
 {"source": "New Budget", "target": "Venture", "value": 10},
 {"source": "New Budget", "target": "Agile", "value": 30},
 {"source": "New Budget", "target": "Traditional", "value": 60},
-{"source": "Existing", "target": "Concurrent", "value": 20}
+{"source": "Existing", "target": " Concurrent", "value": 20}},
+{"source": "Concurrent", "target": "Headcount", "value": 5}},
+{"source": "Concurrent", "target": "Media Promotion", "value": 5}},
+{"source": "Concurrent", "target": "B2B2C", "value": 5}},
+{"source": "Concurrent", "target": "Efficiency", "value": 5}},
 ]}
 
